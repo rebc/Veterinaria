@@ -51,3 +51,35 @@ h2{
 	font-family: cursive;
 	padding-top: 10px;
 }
+#servicios{
+
+	float: left;
+	width: 20%;
+	height: 400px;
+	background-color: #c2f0e8;
+}
+#servicios h3{
+	margin: 0;
+	font-size: 40px;
+	text-align: center;
+	color: #273a71;
+	padding-top: 10px;
+}
+#servicios ul{
+	padding-top: 20px;
+	display: inline-block;
+	
+}
+#servicios ul li a{
+	display: block;
+color:#273a71 ;
+ margin-top: 20px;
+padding-left: 15px;
+ font-size: 25px;
+ 
+}
+#servicios ul li a:hover{
+	color: #0000CC ;
+	font-size: 28px;
+}
+
