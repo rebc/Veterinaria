@@ -55,10 +55,10 @@ h2{
 
 	float: left;
 	width: 20%;
-	height: 400px;
+	height: 500px;
 	background-color: #c2f0e8;
 }
-#servicios h3{
+h3{
 	margin: 0;
 	font-size: 40px;
 	text-align: center;
@@ -82,4 +82,17 @@ padding-left: 15px;
 	color: #0000CC ;
 	font-size: 28px;
 }
+#fotos{
+
+	float: right;
+	height: 400px;
+	margin: auto;
+	width: 80%;
+}
+#fotos img{
+	padding-top: 25px;
+	padding-right: 45px;
+	float: right;
+	vertical-align: middle;
+	text-align: center;
 
